@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Neeraj 👋
 
-<!--
-**nkgaurdev/nkgaurdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Data Structures & Algorithms
+* AI & GenAI
+* Web Development
+
+🚀 Current Goal:
+Solve DSA problems consistently and build useful projects.
+
+📫 Connect with me:
+
+* LinkedIn: (www.linkedin.com/in/neeraj-kumar-gaur-7b9159415)
