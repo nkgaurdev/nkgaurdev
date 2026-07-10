@@ -4,76 +4,61 @@
 
 ### Building AI-powered software that solves real-world problems.
 
-Computer Science Undergraduate • Full Stack Developer • AI Enthusiast • Backend Engineer
+Computer Science Undergraduate • Full Stack Developer • Backend Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Backend+Engineering+with+FastAPI;Full+Stack+Developer;Learning+DSA+%26+System+Design;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%7C+Backend+%7C+Full+Stack;Building+Practical+Software;Python+%7C+FastAPI+%7C+React;Always+Learning%2C+Always+Building" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-I'm a Computer Science undergraduate at **Presidency University, Bangalore**, passionate about building intelligent software that solves practical problems.
+I'm a Computer Science undergraduate at **Presidency University, Bangalore**, passionate about building software that combines AI with scalable backend systems.
 
-My primary interests include
+I enjoy designing products that solve practical problems through clean architecture, intuitive user experiences, and intelligent automation.
 
-- 🤖 Artificial Intelligence & LLM Applications
-- ⚙️ Backend Engineering
-- 🌐 Full Stack Development
-- 📊 Data Visualization
-- 🧠 Problem Solving & DSA
-- ☁️ Scalable Software Systems
+Currently focused on:
 
-I enjoy turning ideas into products that combine clean design, scalable architecture, and practical impact.
-
----
-
-# 💡 Currently Working On
-
-- 🔹 AI-powered Full Stack Applications
-- 🔹 FastAPI Backend Development
-- 🔹 React-based Interfaces
-- 🔹 Large Language Model Integrations
-- 🔹 Predictive Analytics Projects
-- 🔹 Strengthening DSA for Software Engineering Roles
+- AI-powered Applications
+- Backend Engineering
+- Full Stack Development
+- Data Structures & Algorithms
+- Modern Software Architecture
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
 </p>
 
-## Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
-## AI / ML
+### Tools
 
-- Large Language Models (LLMs)
-- LangChain
-- Groq API
-- OpenAI APIs
-- Machine Learning
-- Predictive Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+</p>
 
 ---
 
@@ -81,87 +66,63 @@ I enjoy turning ideas into products that combine clean design, scalable architec
 
 ## ⚖️ Nyaya AI
 
-AI-powered legal document intelligence platform that helps users understand contracts by extracting key clauses, identifying risks, and generating easy-to-understand summaries.
+AI-powered legal document intelligence platform that analyzes contracts, identifies risks, extracts important clauses, and generates human-friendly summaries using Large Language Models.
 
 **Tech**
-
 FastAPI • React • Python • Groq • LLMs
 
 ---
 
 ## 🚂 WheelSentinel AI
 
-Predictive maintenance platform inspired by real manufacturing workflows. Monitors industrial telemetry, predicts equipment failures, visualizes machine health, and provides actionable maintenance insights.
+Industrial predictive maintenance platform that analyzes machine telemetry, predicts failures, monitors equipment health, and visualizes operational analytics.
 
 **Tech**
-
 FastAPI • React • PostgreSQL • Machine Learning
 
 ---
 
 ## 🌦 Weather Analytics Dashboard
 
-Interactive weather dashboard featuring real-time weather visualization, forecasts, and responsive analytics.
+Interactive dashboard for real-time weather visualization with responsive analytics and forecasting.
 
 ---
 
 ## 🏥 Hospital Management System
 
-Java-based web application for managing patients, doctors, appointments, and hospital operations.
+Java web application for managing patients, appointments, doctors, and hospital operations.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- System Design
-- Scalable Backend Architecture
-- Cloud Deployment
-- AI Agents & Workflow Automation
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build impactful AI products
-- ✅ Contribute to Open Source
-- ✅ Master DSA & Problem Solving
-- ✅ Strengthen Backend Engineering Skills
-- ✅ Secure a Software Engineering Role
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
-</a>
-
-•
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/neeraj-kumar-gaur-7b9159415/">
 LinkedIn
 </a>
 
 •
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://github.com/nkgaurdev">
+GitHub
+</a>
+
+•
+
+<a href="mailto:neerajkumargaur.cse@gmail.com">
 Email
 </a>
 
@@ -171,8 +132,8 @@ Email
 
 <div align="center">
 
-### "Great software isn't just about writing code—it's about solving meaningful problems."
+*"I enjoy building software that solves meaningful problems through clean engineering and thoughtful design."*
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by!
 
 </div>
