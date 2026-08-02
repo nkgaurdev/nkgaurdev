@@ -30,7 +30,7 @@ Building scalable backend systems and AI-powered applications that solve real-wo
 # 💫 About Me
 ## About
 
-I'm a Computer Science undergraduate at **Presidency University, Bangalore**, passionate about building software that combines AI with scalable backend systems.
+
 I'm a Computer Science undergraduate at **Presidency University, Bangalore** with a strong interest in backend engineering, AI applications, and full-stack development.
 
 I enjoy designing products that solve practical problems through clean architecture, intuitive user experiences, and intelligent automation.
